@@ -83,7 +83,7 @@
 					<archive>
 						<manifest>
 							<addClasspath>true</addClasspath>
-							<mainClass>app.koyeb.example.App</mainClass>
+							<mainClass>com.brilhatte.app.AppApplication</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
